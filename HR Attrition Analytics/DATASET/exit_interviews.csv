@@ -1,0 +1,251 @@
+interview_id,emp_id,exit_reason,would_recommend
+1,1006,Better Salary,Yes
+2,1019,Work-Life Balance,No
+3,1023,Better Salary,No
+4,1026,Career Growth,Yes
+5,1039,Better Opportunity,No
+6,1044,Manager Issues,Yes
+7,1046,Better Salary,No
+8,1047,Better Salary,Yes
+9,1048,Better Salary,No
+10,1051,Better Opportunity,No
+11,1066,Better Salary,Yes
+12,1070,Career Growth,Yes
+13,1074,Better Opportunity,No
+14,1078,Better Salary,No
+15,1086,Work-Life Balance,No
+16,1094,Better Salary,No
+17,1096,Manager Issues,No
+18,1105,Career Growth,Yes
+19,1110,Retirement,No
+20,1115,Better Opportunity,Yes
+21,1118,Better Salary,No
+22,1121,Better Salary,Yes
+23,1122,Better Opportunity,Yes
+24,1124,Career Growth,Yes
+25,1134,Relocation,Yes
+26,1151,Work-Life Balance,Yes
+27,1167,Work-Life Balance,No
+28,1171,Manager Issues,No
+29,1192,Work-Life Balance,No
+30,1198,Career Growth,No
+31,1205,Manager Issues,No
+32,1207,Work-Life Balance,Yes
+33,1211,Better Opportunity,Yes
+34,1212,Better Opportunity,Yes
+35,1217,Better Opportunity,Yes
+36,1223,Work-Life Balance,Yes
+37,1235,Relocation,No
+38,1263,Relocation,Yes
+39,1265,Work-Life Balance,Yes
+40,1275,Better Salary,Yes
+41,1278,Manager Issues,No
+42,1282,Better Opportunity,No
+43,1283,Work-Life Balance,No
+44,1292,Better Opportunity,Yes
+45,1302,Work-Life Balance,No
+46,1310,Relocation,No
+47,1312,Work-Life Balance,Yes
+48,1319,Work-Life Balance,No
+49,1324,Better Salary,Yes
+50,1337,Work-Life Balance,No
+51,1338,Career Growth,Yes
+52,1339,Work-Life Balance,No
+53,1341,Better Opportunity,No
+54,1365,Work-Life Balance,No
+55,1371,Better Salary,No
+56,1380,Better Salary,No
+57,1391,Better Salary,Yes
+58,1397,Work-Life Balance,Yes
+59,1400,Better Salary,No
+60,1419,Relocation,No
+61,1425,Work-Life Balance,No
+62,1429,Work-Life Balance,No
+63,1432,Relocation,Yes
+64,1442,Better Salary,Yes
+65,1445,Work-Life Balance,No
+66,1457,Better Salary,No
+67,1459,Better Opportunity,Yes
+68,1471,Better Salary,Yes
+69,1472,Career Growth,No
+70,1477,Work-Life Balance,Yes
+71,1491,Work-Life Balance,No
+72,1497,Work-Life Balance,No
+73,1501,Work-Life Balance,Yes
+74,1502,Work-Life Balance,No
+75,1517,Manager Issues,No
+76,1531,Career Growth,No
+77,1532,Career Growth,Yes
+78,1542,Career Growth,No
+79,1546,Better Salary,No
+80,1553,Work-Life Balance,No
+81,1561,Career Growth,No
+82,1574,Manager Issues,Yes
+83,1597,Work-Life Balance,No
+84,1602,Career Growth,Yes
+85,1608,Better Salary,Yes
+86,1612,Relocation,Yes
+87,1628,Career Growth,Yes
+88,1630,Manager Issues,No
+89,1634,Better Salary,Yes
+90,1638,Work-Life Balance,No
+91,1646,Manager Issues,No
+92,1654,Better Opportunity,Yes
+93,1657,Health,Yes
+94,1665,Career Growth,Yes
+95,1666,Manager Issues,No
+96,1667,Career Growth,No
+97,1702,Relocation,Yes
+98,1713,Work-Life Balance,Yes
+99,1730,Career Growth,No
+100,1734,Better Opportunity,Yes
+101,1746,Better Opportunity,No
+102,1750,Work-Life Balance,No
+103,1756,Work-Life Balance,No
+104,1758,Manager Issues,Yes
+105,1759,Career Growth,Yes
+106,1760,Career Growth,Yes
+107,1769,Manager Issues,No
+108,1775,Relocation,Yes
+109,1777,Work-Life Balance,No
+110,1791,Career Growth,No
+111,1795,Work-Life Balance,Yes
+112,1799,Career Growth,Yes
+113,1803,Work-Life Balance,Yes
+114,1809,Relocation,Yes
+115,1814,Better Salary,No
+116,1822,Career Growth,No
+117,1831,Better Salary,Yes
+118,1837,Manager Issues,No
+119,1838,Work-Life Balance,No
+120,1857,Work-Life Balance,No
+121,1868,Better Salary,Yes
+122,1883,Better Salary,Yes
+123,1893,Work-Life Balance,No
+124,1898,Career Growth,No
+125,1900,Work-Life Balance,Yes
+126,1921,Career Growth,Yes
+127,1938,Work-Life Balance,No
+128,1941,Better Salary,Yes
+129,1943,Better Salary,Yes
+130,1948,Better Salary,Yes
+131,1956,Work-Life Balance,No
+132,1965,Manager Issues,No
+133,1972,Work-Life Balance,Yes
+134,1985,Work-Life Balance,Yes
+135,1993,Relocation,No
+136,1996,Better Salary,Yes
+137,2008,Manager Issues,No
+138,2023,Better Salary,Yes
+139,2042,Career Growth,Yes
+140,2045,Career Growth,No
+141,2049,Relocation,No
+142,2066,Better Opportunity,Yes
+143,2080,Better Salary,Yes
+144,2085,Career Growth,No
+145,2086,Better Salary,No
+146,2091,Work-Life Balance,No
+147,2092,Work-Life Balance,No
+148,2099,Work-Life Balance,No
+149,2106,Better Salary,Yes
+150,2107,Work-Life Balance,No
+151,2109,Better Salary,No
+152,2111,Relocation,Yes
+153,2113,Career Growth,Yes
+154,2132,Career Growth,No
+155,2133,Health,No
+156,2136,Career Growth,No
+157,2150,Career Growth,No
+158,2167,Manager Issues,No
+159,2175,Better Salary,Yes
+160,2180,Better Opportunity,No
+161,2183,Better Salary,No
+162,2187,Manager Issues,No
+163,2191,Better Salary,Yes
+164,2195,Work-Life Balance,Yes
+165,2200,Relocation,Yes
+166,2202,Career Growth,Yes
+167,2211,Work-Life Balance,Yes
+168,2216,Work-Life Balance,No
+169,2233,Work-Life Balance,Yes
+170,2234,Better Salary,Yes
+171,2237,Relocation,No
+172,2243,Better Salary,No
+173,2245,Career Growth,No
+174,2248,Relocation,No
+175,2257,Better Salary,Yes
+176,2262,Career Growth,No
+177,2263,Career Growth,Yes
+178,2266,Work-Life Balance,No
+179,2280,Work-Life Balance,No
+180,2282,Career Growth,Yes
+181,2285,Relocation,Yes
+182,2288,Better Salary,Yes
+183,2292,Better Salary,Yes
+184,2297,Work-Life Balance,No
+185,2298,Better Opportunity,Yes
+186,2301,Career Growth,Yes
+187,2302,Better Salary,Yes
+188,2311,Better Opportunity,Yes
+189,2317,Better Salary,Yes
+190,2324,Career Growth,No
+191,2330,Manager Issues,No
+192,2331,Career Growth,No
+193,2333,Work-Life Balance,No
+194,2340,Work-Life Balance,No
+195,2342,Work-Life Balance,No
+196,2359,Work-Life Balance,No
+197,2375,Better Salary,Yes
+198,2386,Work-Life Balance,Yes
+199,2392,Work-Life Balance,No
+200,2412,Better Salary,Yes
+201,2425,Better Opportunity,Yes
+202,2427,Career Growth,Yes
+203,2429,Manager Issues,Yes
+204,2451,Better Salary,Yes
+205,2454,Work-Life Balance,No
+206,2457,Work-Life Balance,Yes
+207,2475,Manager Issues,Yes
+208,2476,Career Growth,Yes
+209,2480,Manager Issues,Yes
+210,2485,Career Growth,Yes
+211,2488,Better Salary,Yes
+212,2501,Relocation,Yes
+213,2504,Career Growth,No
+214,2511,Better Salary,Yes
+215,2514,Better Opportunity,No
+216,2529,Career Growth,No
+217,2545,Work-Life Balance,No
+218,2547,Better Opportunity,No
+219,2549,Better Salary,Yes
+220,2558,Better Salary,Yes
+221,2563,Manager Issues,No
+222,2569,Health,Yes
+223,2578,Work-Life Balance,No
+224,2582,Manager Issues,No
+225,2587,Career Growth,No
+226,2590,Better Salary,Yes
+227,2594,Better Salary,Yes
+228,2601,Better Salary,No
+229,2606,Better Salary,Yes
+230,2618,Better Salary,Yes
+231,2625,Career Growth,No
+232,2651,Career Growth,Yes
+233,2662,Work-Life Balance,No
+234,2664,Better Salary,No
+235,2676,Manager Issues,No
+236,2682,Work-Life Balance,No
+237,2702,Better Salary,Yes
+238,2709,Better Salary,Yes
+239,2721,Career Growth,Yes
+240,2728,Work-Life Balance,No
+241,2729,Work-Life Balance,Yes
+242,2736,Career Growth,Yes
+243,2737,Health,Yes
+244,2740,Health,Yes
+245,2761,Career Growth,No
+246,2771,Retirement,No
+247,2775,Better Opportunity,No
+248,2787,Better Salary,Yes
+249,2794,Work-Life Balance,No
+250,2798,Career Growth,Yes
