@@ -1,1 +1,2 @@
 # HR-Employee-Attrition-Analysis
+An end-to-end HR Attrition Analysis project using MySQL to explore employee attrition patterns and identify key factors influencing employee turnover. The project covers data cleaning, exploratory data analysis, SQL queries, views, CTEs, window functions, stored procedures, and indexing to analyze workforce trends, department-wise attrition, compensation, employee risk scores, and exit patterns. The goal is to turn HR data into meaningful insights that can support better employee retention and workforce planning decisions.
